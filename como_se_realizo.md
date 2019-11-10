@@ -1,7 +1,7 @@
 # Lenguaje, Librerias y Codificacion
 
 ## Lenguajes
-El lenguaje utilizado fue **Python**, con las siguientes liberias:
+El lenguaje utilizado fue **Python - Jupyter Notebook**, con las siguientes liberias:
 
 ## Librerias
 ~~~python
