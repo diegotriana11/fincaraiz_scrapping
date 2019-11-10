@@ -48,7 +48,7 @@ En esta idea, la propuesta fue __Extraer la mayor cantidad de datos con el fin d
 Esta selección se debió al reto que  propiciaba y a la oportunidad de aprendizaje en el uso e implementación de técnicas de *scrapping* a través de Python. Es por esto que los retos más representativos para el proyecto fueron:
 
 + Comprender que la estructura de la paginación, resaltando que los elementos del paginado no cuentan con identificadores (etiqueta id) inicialmente, estos solo son creados cuando se da click en el item numero 2 de la paginación
-+
++ iterar sobre las 2.774 paginas controlando tiempos entre cada iteración
 + Dar click a través de Selenium por cada pagina
 + Identificar la estructura del sitio (etiquetado)
 + Captura de las excepciones de selenium
@@ -58,12 +58,9 @@ Esta selección se debió al reto que  propiciaba y a la oportunidad de aprendiz
 
 Sin duda, el reto que ha propiciado este sitio ha sido interesante, sin embargo y como es de esperar, queda la invitación a retomar el proyecto y realizar mejoras continuas. Entre estas, se proponen:
 
-+ Codificar en arquitectura POO
++ Extraer el contenido multimedia
 + Ingresar a cada uno de los inmuebles y extraer telefono de contacto, coordenadas en el mapa (a través de leaflet) y variables demográficas
-
-
++ Codificar en arquitectura POO
 
 
 **Tamaño del Sitio**: Existen 83.193 registros (30 registros por fila) = 2.774 paginas
-
-
